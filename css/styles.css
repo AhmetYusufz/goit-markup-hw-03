@@ -226,6 +226,7 @@ h3 {
   padding: 32px 16px;
   text-align: left;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
 .item-name {
   color: var(--NAVY-BLUE);
